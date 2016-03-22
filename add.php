@@ -24,3 +24,4 @@ mysql_select_db("test");
 	header('location:1.php');
 	}	
 ?>
+<!--  --><!-- sldkjflsdjfs -->
